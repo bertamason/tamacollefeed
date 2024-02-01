@@ -29,7 +29,6 @@ HT VER2
 - "地魂これくしょん"
 - "Tama Colle"
 - "TamaColle"
-- "Kazusa"
 - "大和くん"
 - "河内くん"
 - "和泉くん"
