@@ -9,7 +9,7 @@ tamacolle-kw
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-HYA'S TEST 2
+HYA'S TEST VER2
 
 # description
 
@@ -28,6 +28,8 @@ HYA'S TEST 2
 - "#魂これ"
 - "地魂これくしょん"
 - "Tama Colle"
+- "伊予"
+- "吉備兄弟"
 
 # denyList
 
@@ -35,6 +37,9 @@ HYA'S TEST 2
 >
 > - did:plc:1234
 > - @spamspamspam.bsky.social
+
+- @nowbreezing.ntw.app
+- "伊予柑"
 
 # safeMode
 
