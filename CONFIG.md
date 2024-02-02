@@ -27,11 +27,6 @@ HT V2
 - "魂これ"
 - "#魂これ"
 - "地魂これくしょん"
-- "Tama Colle"
-- "TamaColle"
-- "Tamacolle"
-- "tamacolle"
-- "tama colle"
 - "大和くん"
 - "河内くん"
 - "和泉くん"
@@ -174,6 +169,11 @@ HT V2
 - "筑後きゅん"
 - "肥前きゅん"
 - "大隅きゅん"
+- "Tama Colle"
+- "TamaColle"
+- "Tamacolle"
+- "tamacolle"
+- "tama colle"
 
 # denyList
 
