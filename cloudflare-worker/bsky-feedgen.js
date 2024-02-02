@@ -79,14 +79,14 @@ function fromUser(query, queryIdx, response, params) {
         let timestamp = null;
         if (feedItem.reason !== undefined) {
           let timestampStr = feedItem.reason.indexedAt;
-          timestamp = new Date(timestampStr).valueOf() * 1000;
+          timestamp = new Date(timestampStr).valueOf() * 1000000;
           postReason = {
             $type: "app.bsky.feed.defs#skeletonReasonRepost",
             // TODO: add repost URI field
           };
         } else {
           let timestampStr = feedItem.post.record.createdAt;
-          timestamp = new Date(timestampStr).valueOf() * 1000;
+          timestamp = new Date(timestampStr).valueOf() * 1000000;
         }
 
         docs.push({
