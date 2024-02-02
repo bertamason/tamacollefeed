@@ -9,7 +9,7 @@ tamacolle-kw
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-HT VER2
+HT V2
 
 # description
 
