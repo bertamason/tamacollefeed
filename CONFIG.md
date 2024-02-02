@@ -29,8 +29,6 @@ HT V2
 - "Tamacolle"
 - "tamacolle"
 - "TamaColle"
-- "Tama Colle"
-- "tama colle"
 - "地魂これくしょん"
 - "河内くん"
 - "河内君"
@@ -90,6 +88,8 @@ HT V2
 - "筑後君"
 - "大隅くん"
 - "大隅君"
+- "Tama Colle"
+- "tama colle"
 
 # denyList
 
