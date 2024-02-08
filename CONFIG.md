@@ -9,7 +9,7 @@ tamacolle-kw
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-TC-CF v1
+TCCF v1
 
 # description
 
@@ -27,9 +27,7 @@ Under testing
 
 - "魂これ"
 - "#魂これ"
-- "Tamacolle"
-- "tamacolle"
-- "TamaColle"
+
 
 
 
