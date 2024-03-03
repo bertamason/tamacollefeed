@@ -9,13 +9,13 @@ tamacolle-kw
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-調査用v1（フォロー非推奨）
+試験運用v1
 
 # description
 
 > This is the description of the feed.
 
-Under testing
+フォロー非推奨
 
 # searchTerms
 
