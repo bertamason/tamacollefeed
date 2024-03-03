@@ -9,7 +9,7 @@ tamacolle-kw
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-TCCF v1
+調査用v1（フォロー非推奨）
 
 # description
 
